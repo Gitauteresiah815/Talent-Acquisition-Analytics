@@ -4,7 +4,7 @@ A Power BI recruitment analytics dashboard built from a 2,400-row dataset spanni
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 | KPI | Value |
 |---|---|
@@ -16,7 +16,7 @@ A Power BI recruitment analytics dashboard built from a 2,400-row dataset spanni
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 ├── Data Preparation     # Power Query — null handling, imputation, data cleaning
@@ -27,7 +27,7 @@ A Power BI recruitment analytics dashboard built from a 2,400-row dataset spanni
 
 ---
 
-## 🔧 Data Model
+##  Data Model
 
 | Table | Type | Primary Key |
 |---|---|---|
@@ -38,14 +38,14 @@ A Power BI recruitment analytics dashboard built from a 2,400-row dataset spanni
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Microsoft Excel** — Power Query for data cleaning and transformation
 - **Power BI Desktop** — Data modelling, DAX measures, and dashboard visualisation
 
 ---
 
-## 💡 Key Findings
+## Key Findings
 
 - Offer acceptance rate is critically low at **49.87%** — IT (16%) and HR (40%) are the worst performing departments
 - **54.22%** of all candidates failed the recruitment process indicating weak shortlisting
@@ -55,7 +55,7 @@ A Power BI recruitment analytics dashboard built from a 2,400-row dataset spanni
 
 ---
 
-## 📁 Files
+## Files
 
 | File | Description |
 |---|---|
